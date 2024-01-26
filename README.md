@@ -31,7 +31,7 @@ https://drive.google.com/file/d/1im2nw1UU8dKbO7ol4tZPgP7_jY8CbqGR/view?usp=drive
 
 ## ⚡ Fun Fact
 I have a quirky habit: I listen to my own voice messages after sending them. It's a strange but entertaining routine! 😄
- 🚀 Languages and Tools
+ ## Languages and Tools
 ![C/C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) ![CSS3](https://img.icons8.com/color/48/000000/css3.png) ![Express.js](https://img.icons8.com/color/48/000000/express.png) ![Figma](https://img.icons8.com/color/48/000000/figma.png) ![Git](https://img.icons8.com/color/48/000000/git.png) ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) ![Java](https://img.icons8.com/color/48/000000/java.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![Linux](https://img.icons8.com/color/48/000000/linux.png) ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) ![MSSQL](https://img.icons8.com/color/48/000000/microsoft-sql-server.png) ![MySQL](https://img.icons8.com/color/48/000000/mysql.png) ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) ![Postman](https://img.icons8.com/color/48/000000/postman-api.png) ![Python](https://img.icons8.com/color/48/000000/python.png) ![React](https://img.icons8.com/color/48/000000/react.png) ![Selenium](https://img.icons8.com/color/48/000000/selenium-test-automation.png) ![Spring](https://img.icons8.com/color/48/000000/spring-logo.png) ![Unity](https://img.icons8.com/color/48/000000/unity.png)
 
 Feel free to connect and explore the world of coding together! 
