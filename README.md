@@ -1,4 +1,4 @@
-![Banner](https://images.unsplash.com/photo-1691085465046-807f880ba9d7?q=80&w=1780&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+![Banner](https://camo.githubusercontent.com/eddbd74640cd9fb629e0c9d811b7e117a21db6845aabd6ac54352f7b06e85732/68747470733a2f2f686f6c6f70696e2e6d652f6d616964613132)
 
 # Hi there, I'm Hira Toqeer! 👋
 
@@ -22,6 +22,8 @@ I'm currently exploring the vast field of Machine Learning, and any guidance or 
 
 ## 👨‍💻 Explore My Projects
 Check out my projects on [GitHub](https://github.com/HIRATOQEER). Contributions and feedback are always welcome!
+
+📄 Know about my experiences https://drive.google.com/file/d/1im2nw1UU8dKbO7ol4tZPgP7_jY8CbqGR/view?usp=drive_link
 
 ## 💬 Ask Me About
 - React
