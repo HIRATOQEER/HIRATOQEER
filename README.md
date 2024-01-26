@@ -1,4 +1,4 @@
-![Banner](https://media.istockphoto.com/id/640173038/photo/hacker-man-with-vendetta-mask-hacking-binary-system-security-cod.jpg?s=1024x1024&w=is&k=20&c=QU78xcR7-6hu1Z64l_8KDEo85txfchCYmhsrOEW9nsI=)
+![Banner](https://images.unsplash.com/photo-1691085465046-807f880ba9d7?q=80&w=1780&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
 # Hi there, I'm Hira Toqeer! 👋
 
@@ -34,26 +34,7 @@ Check out my projects on [GitHub](https://github.com/HIRATOQEER). Contributions 
 
 ## ⚡ Fun Fact
 I have a quirky habit: I listen to my own voice messages after sending them. It's a strange but entertaining routine! 😄
-
 ## 🚀 Languages and Tools
-- C/C++
-- CSS3
-- Express.js
-- Figma
-- Git
-- HTML5
-- Java
-- JavaScript
-- Linux
-- MongoDB
-- MSSQL
-- MySQL
-- Node.js
-- Postman
-- Python
-- React
-- Selenium
-- Spring
-- Unity
+![C/C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) ![CSS3](https://img.icons8.com/color/48/000000/css3.png) ![Express.js](https://img.icons8.com/color/48/000000/express.png) ![Figma](https://img.icons8.com/color/48/000000/figma.png) ![Git](https://img.icons8.com/color/48/000000/git.png) ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) ![Java](https://img.icons8.com/color/48/000000/java.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![Linux](https://img.icons8.com/color/48/000000/linux.png) ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) ![MSSQL](https://img.icons8.com/color/48/000000/microsoft-sql-server.png) ![MySQL](https://img.icons8.com/color/48/000000/mysql.png) ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) ![Postman](https://img.icons8.com/color/48/000000/postman-api.png) ![Python](https://img.icons8.com/color/48/000000/python.png) ![React](https://img.icons8.com/color/48/000000/react.png) ![Selenium](https://img.icons8.com/color/48/000000/selenium-test-automation.png) ![Spring](https://img.icons8.com/color/48/000000/spring-logo.png) ![Unity](https://img.icons8.com/color/48/000000/unity.png)
 
 Feel free to connect and explore the world of coding together! 
