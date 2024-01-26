@@ -1,4 +1,4 @@
-![Banner](https://camo.githubusercontent.com/eddbd74640cd9fb629e0c9d811b7e117a21db6845aabd6ac54352f7b06e85732/68747470733a2f2f686f6c6f70696e2e6d652f6d616964613132)
+![Banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2F3-unique-methods-image-integration-github-readme-shafayetul-islam&psig=AOvVaw2Xx5IIRdbwV4o8Z2wQ5_7q&ust=1706391319639000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNDbmpqB_IMDFQAAAAAdAAAAABAD)
 
 # Hi there, I'm Hira Toqeer! 👋
 
