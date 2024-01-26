@@ -1,4 +1,4 @@
-![Banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2F3-unique-methods-image-integration-github-readme-shafayetul-islam&psig=AOvVaw2Xx5IIRdbwV4o8Z2wQ5_7q&ust=1706391319639000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNDbmpqB_IMDFQAAAAAdAAAAABAD)
+![Banner](https://media.istockphoto.com/id/640173038/photo/hacker-man-with-vendetta-mask-hacking-binary-system-security-cod.jpg?s=1024x1024&w=is&k=20&c=QU78xcR7-6hu1Z64l_8KDEo85txfchCYmhsrOEW9nsI=)
 
 # Hi there, I'm Hira Toqeer! 👋
 
