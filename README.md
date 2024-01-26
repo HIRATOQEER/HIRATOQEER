@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi I am Hira Toqeer
 
-<!--
-**HIRATOQEER/HIRATOQEER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate full stack developer from Pakistan
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🔭 I’m currently working on Nextjs,python,
+- 🌱 I’m currently learning Machine Learning/AI
+- 👯 I’m looking to collaborate on Open source
+- 🤔 I’m looking for help with Machine Learning
+- 👨‍💻 All of my projects are available at https://github.com/HIRATOQEER
+- 💬 Ask me about react Nodejs/Nexjs
+- 📫 How to reach me: hiratoqeer26@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I listen my own voice messages after sending
 -->
