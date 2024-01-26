@@ -1,17 +1,32 @@
-### Hi I am Hira Toqeer
+# Hi there, I'm Hira Toqeer! 👋
 
-A passionate full stack developer from Pakistan
+I am a passionate Full Stack Developer from Pakistan, currently diving into the worlds of Next.js and Python. I have a keen interest in Machine Learning and AI, always eager to expand my knowledge in these domains.
 
+## 🔧 Technologies & Tools
+- Frontend: React
+- Backend: Node.js, Next.js
+- Other tech: Python
 
-Here are some ideas to get you started:
+## 🌱 Currently Learning
+- Machine Learning/AI
 
-- 🔭 I’m currently working on Nextjs,python,
-- 🌱 I’m currently learning Machine Learning/AI
-- 👯 I’m looking to collaborate on Open source
-- 🤔 I’m looking for help with Machine Learning
-- 👨‍💻 All of my projects are available at https://github.com/HIRATOQEER
-- 💬 Ask me about react Nodejs/Nexjs
-- 📫 How to reach me: hiratoqeer26@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I listen my own voice messages after sending
--->
+## 👯 Open to Collaborate
+I am actively looking for opportunities to collaborate on open-source projects. If you have an interesting project or idea, feel free to reach out!
+
+## 🤔 Seeking Help
+I'm currently exploring the vast field of Machine Learning, and any guidance or collaboration in this area would be greatly appreciated.
+
+## 👨‍💻 Explore My Projects
+Check out my projects on [GitHub](https://github.com/HIRATOQEER). Contributions and feedback are always welcome!
+
+## 💬 Ask Me About
+- React
+- Node.js/Next.js
+
+## 📫 How to Reach Me
+- Email: hiratoqeer26@gmail.com
+
+## ⚡ Fun Fact
+I have a quirky habit: I listen to my own voice messages after sending them. It's a strange but entertaining routine! 😄
+
+Feel free to connect and explore the world of coding together! 🚀
