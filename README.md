@@ -6,11 +6,6 @@
 
 I am a passionate Full Stack Developer from Pakistan, currently diving into the worlds of Next.js and Python. I have a keen interest in Machine Learning and AI, always eager to expand my knowledge in these domains.
 
-## 🔧 Technologies & Tools
-- Frontend: React
-- Backend: Node.js, Next.js
-- Other tech: Python
-
 ## 🌱 Currently Learning
 - Machine Learning/AI
 
@@ -26,8 +21,7 @@ Check out my projects on [GitHub](https://github.com/HIRATOQEER). Contributions 
 📄 Know about my experiences https://drive.google.com/file/d/1im2nw1UU8dKbO7ol4tZPgP7_jY8CbqGR/view?usp=drive_link
 
 ## 💬 Ask Me About
-- React
-- Node.js/Next.js
+- React/Node.js
 
 ## 📫 How to Reach Me
 - Email: hiratoqeer26@gmail.com
