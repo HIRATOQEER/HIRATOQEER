@@ -56,4 +56,4 @@ I have a quirky habit: I listen to my own voice messages after sending them. It'
 - Spring
 - Unity
 
-Feel free to connect and explore the world of coding together! 🚀
+Feel free to connect and explore the world of coding together! 
